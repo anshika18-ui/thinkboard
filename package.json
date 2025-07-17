@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshika18-ui/thinkboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anshika18-ui/thinkboard/issues"
+  },
+  "homepage": "https://github.com/anshika18-ui/thinkboard#readme",
   "description": ""
 }
